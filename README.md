@@ -1,36 +1,121 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Resume PDF to DOCX Converter
 
-## Getting Started
+This project is a web application that converts PDF resumes to a standardized DOCX format. It uses Next.js for the frontend and backend, OpenAI's GPT model for information extraction, and Vercel Blob storage for file management.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- PDF upload and processing
+- Information extraction using AI
+- Conversion to a standardized DOCX format
+- Vercel Blob storage integration for file management
+
+## Prerequisites
+
+- Node.js (v14 or later)
+- npm or yarn
+- A Vercel account
+- An OpenAI API key
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/resume-pdf-to-docx-converter.git
+   cd resume-pdf-to-docx-converter
+   ```
+
+2. Install dependencies:
+   ```
+   npm install
+   ```
+
+3. Create a `.env.local` file in the root directory and add your environment variables:
+   ```
+   OPENAI_API_KEY=your_openai_api_key
+   ```
+
+## Local Development
+
+1. Run the development server:
+   ```
+   npm run dev
+   ```
+
+2. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Deployment on Vercel
+
+1. Push your code to a GitHub repository.
+
+2. Log in to your Vercel account and click "New Project".
+
+3. Import your GitHub repository.
+
+4. In the project settings:
+   - Set the Framework Preset to Next.js
+   - Add your environment variables (OPENAI_API_KEY)
+
+5. Click "Deploy".
+
+6. After deployment, go to the "Storage" tab in your Vercel dashboard and create a new Blob store.
+
+7. Update your environment variables in the Vercel dashboard to include the Blob store details.
+
+## Usage
+
+1. Navigate to the deployed application.
+
+2. Upload a PDF resume.
+
+3. The application will process the PDF, extract information, and generate a standardized DOCX file.
+
+4. Download the resulting DOCX file.
+
+## Project Structure
+
+```
+/
+├── app/
+│   ├── api/
+│   │   ├── upload/
+│   │   ├── process-status/
+│   │   ├── convert-to-json/
+│   │   ├── extract-info/
+│   │   └── convert-to-docx/
+│   ├── upload/
+│   ├── process/
+│   ├── convert-to-json/
+│   ├── extract/
+│   └── convert-to-docx/
+├── public/
+│   └── templates/
+│       └── resume_template.docx
+├── .env.local
+├── next.config.js
+├── package.json
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Configuration
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- `next.config.js`: Next.js configuration
+- `.env.local`: Environment variables (not committed to version control)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contributing
 
-## Learn More
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is licensed under the MIT License.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Acknowledgments
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Next.js
+- OpenAI
+- Vercel
+- docxtemplater
