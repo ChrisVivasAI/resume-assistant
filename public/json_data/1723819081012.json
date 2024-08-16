@@ -1,0 +1,168 @@
+{
+  "fullName": "Emmanuel Carranza Galvan",
+  "jobPosition": "Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert",
+  "skills": {
+    "soft": [
+      "Negotiation",
+      "Strategic Thinking",
+      "Continuous Improvement",
+      "Leadership and Team Management",
+      "Problem-Solving",
+      "Stakeholder Communication",
+      "Change Management",
+      "Customer Focus",
+      "Adaptability",
+      "Conflict Resolution",
+      "Time Management"
+    ],
+    "hard": [
+      "Technical Knowledge",
+      "Project Planning and Scheduling",
+      "Risk Management",
+      "Budget Management",
+      "Agile and Scrum Methodologies",
+      "Quality Assurance",
+      "Vendor Management",
+      "Delivery Documentation and Reporting",
+      "Jira",
+      "Monday",
+      "Confluence",
+      "Asana",
+      "MS Excel",
+      "Word",
+      "Power point",
+      "Shared point",
+      "Teams",
+      "Google Workspace",
+      "Sheets",
+      "Analytics",
+      "VBA",
+      "Appian",
+      "RPA Automation Anywhere",
+      "Woocommerce",
+      "Murex",
+      "Calypso",
+      "Salesforce"
+    ]
+  },
+  "education": [
+    {
+      "degree": "BS in Industrial Engineering",
+      "institution": "UNAM - National Autonomous University of Mexico"
+    },
+    {
+      "degree": "Diploma in Business Consulting",
+      "institution": "EGADE - Business School - Monterrey Institute of Technology and Higher Education"
+    },
+    {
+      "degree": "MSc in Engineering Management Operations",
+      "institution": "Anahuac University"
+    },
+    {
+      "degree": "Diploma in Management Strategy and Process Design",
+      "institution": "Intercontinental University"
+    }
+  ],
+  "coursesAndCertifications": [
+    "Professional Product Owner by scrum.org",
+    "Professional Scrum Master by scrum.org",
+    "Google Project Management: Specialization Professional Certificate",
+    "Generative AI for Project Managers: Specialization Certificate by IBM",
+    "Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign",
+    "Yellow belt Six Sigma by VMEdu",
+    "Advanced Professional RPA in Automation 360 platform by Automation Anywhere",
+    "Negotiation Associate NCN-A by VMEdu",
+    "Digital Marketing Fundamentals by VMEdu",
+    "Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey",
+    "Prince2 Foundations by Axelos (In progress)"
+  ],
+  "experience": [
+    {
+      "company": "Wipro",
+      "term": "08/04/2023 - 01/03/2024",
+      "position": "Delivery Lead IT",
+      "responsibilities": [
+        "Project Manager for a core trading system migration project at BBVA México in the FX Financial Markets (Murex MX3 and Calypso) CIB, overseeing planning, management, and delivery phases.",
+        "Led the implementation of Calypso systems for the calculator and remediation of margin interchange, focusing on the execution within financial union frameworks.",
+        "Acted as Product Owner, defining project vision, prioritizing features, and managing the product backlog to ensure alignment with business goals.",
+        "Served as Scrum Master, facilitating daily stand-ups, sprint planning, and retrospectives to enhance team collaboration and ensure timely project delivery.",
+        "Coordinated cross-functional teams, ensuring effective communication and collaboration between stakeholders, risk and busines team, layers developers, and QA teams.",
+        "Utilized Agile methodologies to drive continuous improvement and deliver high-quality solutions tailored to business needs."
+      ]
+    },
+    {
+      "company": "NFQ",
+      "term": "01/02/2023 - 08/04/2023",
+      "position": "Experienced Business Consultant",
+      "responsibilities": [
+        "PMO in a Sofome transformation to Sofipo, acting as a coordinator in legal and tech development.",
+        "Led the integration of digital processes for opening credit accounts in mobile apps using advanced technology.",
+        "Ensured legal compliance and facilitated the seamless transition of business processes during the transformation."
+      ]
+    },
+    {
+      "company": "Stryke",
+      "term": "Project Manager Officer",
+      "responsibilities": []
+    },
+    {
+      "company": "Inbee and Zapping pet",
+      "term": "01/03/2024 - 10/10/2025",
+      "position": "Founder (Entrepreneur phase)",
+      "responsibilities": [
+        "Head of technology and business process.",
+        "Assessed sales processes in the e-commerce platform, improving paths and testing solutions.",
+        "Implemented e-commerce and CRM platforms (Woo commerce and salesforce) with a development team using WordPress, HTML, and CSS technologies.",
+        "Designed production, operational, and commercial processes.",
+        "Managed point of sales (POS) systems integration with e-commerce and CRM platforms.",
+        "Developed and executed marketing and lead generation strategies using data from the CRM system.",
+        "Analyzed CRM data to optimize sales strategies and improve customer engagement.",
+        "Coordinated with cross-functional teams to align business processes with technology solutions for enhanced efficiency."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "term": "01/08/2022 - 01/02/2023",
+      "position": "Independent Business Consultant",
+      "responsibilities": [
+        "Manager of the implementation of digital technology solutions, including e-commerce, CRM, RPA, C2C practices, AR experiences, and data management strategies.",
+        "Defined project vision and priorities, ensuring alignment with business objectives and maximizing value delivery.",
+        "Facilitated Agile practices, including daily stand-ups, sprint planning, and retrospectives, to drive team collaboration and project efficiency.",
+        "Managed the product backlog, prioritizing features and tasks to meet business needs and project timelines.",
+        "Ensured effective communication and collaboration across cross-functional teams and stakeholders, driving successful project outcomes."
+      ]
+    },
+    {
+      "company": "BBVA",
+      "term": "01/2019 - 10/2019",
+      "position": "Project Manager",
+      "responsibilities": [
+        "Project Manager in Talent and Culture area (HR).",
+        "Managed the implementation of IT platforms and RPA solutions for front office and back office systems trade flows.",
+        "Led and managed the data mapping team, tracking origin-destination at both object and field levels.",
+        "Gathered data from users and systems to inform project decisions and improvements.",
+        "Employed BPMN nomenclature to design process automation and RPA solutions.",
+        "Optimized end-to-end processes under Agile/SAFe framework, implementing continuous improvements.",
+        "Ensured the successful delivery of projects by managing timelines, resources, and stakeholder expectations."
+      ]
+    },
+    {
+      "company": "Management Solutions",
+      "term": "06/2015 - 12/2018",
+      "position": "Business Consultant",
+      "responsibilities": [
+        "Experienced Project Manager with a strong background in digital transformation, process re-engineering, and IT project management.",
+        "Demonstrated expertise in managing complex projects, implementing cutting-edge technologies, and optimizing business processes. Skilled in Agile methodologies, stakeholder communication, and cross-functional team leadership.",
+        "Led digital transformation projects, including the migration of critical systems and the implementation of new technologies.",
+        "Managed project lifecycles from planning to execution, ensuring timely delivery and adherence to budgets.",
+        "Acted as Scrum Master for multiple projects, facilitating daily stand-ups, sprint planning, and retrospectives.",
+        "Implemented process architecture offices, designed taxonomies, and created KANBAN process factories to improve operational efficiency.",
+        "Conducted process mapping and analysis to streamline workflows and centralize business processes.",
+        "Managed data mapping teams, tracking origin-destination at object and field levels, and creating requirement documents and cleansing rules for master data.",
+        "Coordinated cross-functional teams and facilitated communication between stakeholders, developers, and QA teams.",
+        "Implemented IT platforms and RPA solutions for front office and back office systems trade flows.",
+        "Led the integration of digital processes for opening credit accounts in mobile apps using advanced technology."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "fullName": "Christian Vivas",
+  "jobPosition": "Founder",
+  "skills": {
+    "soft": [],
+    "hard": [
+      "Python (Programming Language)",
+      "Databases",
+      "Artificial Intelligence (AI)",
+      "Artificial Neural Networks",
+      "Automation Tools: Make.com, Zapier, Google Scripts",
+      "Web Development: HTML, CSS, JavaScript",
+      "SEO",
+      "Artificial Intelligence: Applied AI, Python, Databases, Artificial Neural Networks",
+      "Content Creation: Social media management, marketing content production"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Applied Science (BASc) in Artificial Intelligence",
+      "institution": "Miami Dade College"
+    },
+    {
+      "degree": "Electrical Engineering, Electrical and Electronics Engineering",
+      "institution": "Florida International University"
+    }
+  ],
+  "coursesAndCertifications": [
+    "AWS Cloud Practitioner (CLF-C02) Certification Preparation"
+  ],
+  "experience": [
+    {
+      "company": "HGAB Studios",
+      "term": "January 2013 - Present",
+      "position": "Founder",
+      "responsibilities": [
+        "Established and managed a creative studio",
+        "Developed custom automated systems to optimize business processes and enhance operational efficiency",
+        "Implemented SEO strategies"
+      ]
+    }
+  ]
+}

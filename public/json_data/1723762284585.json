@@ -1,0 +1,194 @@
+{
+  "Negotiation Skills": "Negotiating project terms, scope, and deliverables with stakeholders.",
+  "Strategic Thinking": "Aligning project objectives with organizational goals and strategies.",
+  "Continuous Improvement": "Encouraging and implementing process improvements for better project outcomes.",
+  "Leadership and Team Management": "Ability to lead, motivate, and manage project teams effectively.",
+  "Problem-Solving": "Effective at identifying issues and finding solutions quickly.",
+  "Technical Knowledge": "Understanding of IT systems, software development, and related technologies.",
+  "Project Planning and Scheduling": "Proficiency in creating detailed project plans and schedules.",
+  "Risk Management": "Identifying, analyzing, and mitigating project risks.",
+  "Budget Management": "Managing project budgets and ensuring cost-effectiveness.",
+  "Stakeholder Communication": "Strong skills in communicating with stakeholders at all levels.",
+  "Agile and Scrum Methodologies": "Experience with Agile frameworks and Scrum practices.",
+  "Quality Assurance": "Ensuring that project deliverables meet quality standards.",
+  "Change Management": "Managing and implementing change within projects.",
+  "Vendor Management": "Handling relationships and contracts with external vendors.",
+  "Delivery Documentation and Reporting": "Maintaining comprehensive project documentation and generating regular status reports.",
+  "Professional Summary": "With over 8 years of experience in IT and project management, extensive knowledge in digital transformation, delivery lead in the SDLC cycle, and expert business analyst skills.",
+  "Work Experience": [
+    {
+      "Position": "Delivery Lead IT",
+      "Company": "Wipro",
+      "Dates": "08/04/2023 - 01/03/2024",
+      "Location": "México, CDMX",
+      "Responsibilities": [
+        "Managed a core trading system migration project at BBVA México in the FX Financial Markets.",
+        "Implemented Calypso systems for the calculator and remediation of margin interchange.",
+        "Acted as Product Owner and Scrum Master, facilitating collaboration and timely project delivery.",
+        "Utilized Agile methodologies for continuous improvement and high-quality solutions."
+      ]
+    },
+    {
+      "Position": "Experienced Business Consultant",
+      "Company": "NFQ",
+      "Responsibilities": [
+        "PMO in a Sofome transformation to Sofipo.",
+        "Led the integration of digital processes for opening credit accounts in mobile apps.",
+        "Ensured legal compliance and facilitated seamless business process transitions."
+      ]
+    },
+    {
+      "Position": "Project Manager Officer",
+      "Company": "Stryke",
+      "Dates": "01/02/2023 - 08/04/2023",
+      "Location": "México, CDMX",
+      "Certifications": [
+        "Professional Product Owner by scrum.org",
+        "Professional Scrum Master by scrum.org",
+        "Google Project Management: Specialization Professional Certificate",
+        "Generative AI for Project Managers: Specialization Certificate by IBM",
+        "Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign",
+        "Yellow belt Six Sigma by VMEdu",
+        "Advanced Professional RPA in Automation 360 platform by Automation Anywhere",
+        "Negotiation Associate NCN-A by VMEdu",
+        "Digital Marketing Fundamentals by VMEdu",
+        "Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey",
+        "Prince2 Foundations by Axelos (In progress)"
+      ],
+      "Responsibilities": [
+        "Managed projects in Talent and Culture area (HR) implementing IT platforms and RPA solutions.",
+        "Optimized processes under Agile/SAFe framework for continuous improvement and successful project delivery."
+      ]
+    },
+    {
+      "Position": "Business Consultant",
+      "Company": "BBVA",
+      "Dates": "06/2015 - 12/2018",
+      "Locations": [
+        "México, CDMX",
+        "Spain, Madrid"
+      ],
+      "Responsibilities": [
+        "Managed digital transformation projects, system migrations, and new technology implementations."
+      ]
+    },
+    {
+      "Position": "Independent Business Consultant",
+      "Company": "Freelance",
+      "Dates": "01/08/2022 - 01/02/2023",
+      "Location": "México, CDMX",
+      "Responsibilities": [
+        "Provided consultancy services for various projects and clients."
+      ]
+    }
+  ],
+  "Skills": {
+    "Business Skills": [
+      "Negotiation",
+      "Strategic Thinking",
+      "Leadership",
+      "Problem-Solving",
+      "Budget Management",
+      "Stakeholder Communication",
+      "Change Management",
+      "Vendor Management"
+    ],
+    "Technical Skills": [
+      "IT Systems",
+      "Software Development",
+      "Project Planning",
+      "Risk Management",
+      "Agile Methodologies",
+      "Quality Assurance",
+      "Vendor Management"
+    ],
+    "Certifications": [
+      "Professional Product Owner by scrum.org",
+      "Professional Scrum Master by scrum.org",
+      "Google Project Management: Specialization Professional Certificate",
+      "Generative AI for Project Managers: Specialization Certificate by IBM",
+      "Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign",
+      "Yellow belt Six Sigma by VMEdu",
+      "Advanced Professional RPA in Automation 360 platform by Automation Anywhere",
+      "Negotiation Associate NCN-A by VMEdu",
+      "Digital Marketing Fundamentals by VMEdu",
+      "Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey",
+      "Prince2 Foundations by Axelos (In progress)"
+    ],
+    "Management Skills": [
+      "Project Planning and Scheduling",
+      "Leadership and Team Management",
+      "Risk Management",
+      "Budget Management",
+      "Stakeholder Communication",
+      "Change Management"
+    ],
+    "Technical Knowledge": [
+      "IT Systems",
+      "Software Development",
+      "Agile and Scrum Methodologies",
+      "Quality Assurance",
+      "Vendor Management"
+    ]
+  },
+  "Education": [
+    {
+      "Degree": "BS in Industrial Engineering",
+      "University": "UNAM - National Autonomous University of Mexico"
+    },
+    {
+      "Degree": "Diploma in Business Consulting",
+      "Institution": "EGADE - Business School - Monterrey Institute of Technology and Higher Education",
+      "Dates": "08/06/2012 - 31/12/2015",
+      "Location": "México, CDMX"
+    },
+    {
+      "Degree": "MSc in Engineering Management Operations",
+      "University": "Anahuac University",
+      "Dates": "08/02/2017 - 31/10/2018",
+      "Location": "México, CDMX"
+    },
+    {
+      "Degree": "Diploma in Management Strategy and Process Design",
+      "Institution": "Intercontinental University"
+    }
+  ],
+  "Languages": [
+    "English Advanced C1",
+    "Spanish Native"
+  ],
+  "Software Skills": {
+    "Management Solutions": {
+      "Tools": [
+        "Jira - Advanced",
+        "Monday - Advanced",
+        "Confluence - Advanced",
+        "Asana - Intermediate"
+      ]
+    },
+    "MS Office": {
+      "Tools": [
+        "Excel - Advanced",
+        "Word - Advanced",
+        "Powerpoint - Advanced",
+        "Sharepoint - Advanced",
+        "Teams - Advanced"
+      ]
+    },
+    "Google Workspace": {
+      "Tools": [
+        "Sheets - Advanced",
+        "Analytics - Advanced"
+      ]
+    },
+    "Technical": [
+      "VBA - Advanced",
+      "Appian - Intermediate",
+      "RPA Automation Anywhere - Intermediate",
+      "Woocommerce - Advanced",
+      "Murex - Intermediate",
+      "Calypso - Intermediate",
+      "Salesforce - Intermediate"
+    ]
+  }
+}

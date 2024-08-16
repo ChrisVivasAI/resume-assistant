@@ -1,0 +1,40 @@
+Full Name
+- Christian Vivas
+
+Job Position
+- Summer Internship at the Hache Law Firm
+
+Soft and Hard Skills
+
+Soft Skills:
+- Dedicated
+- Experienced
+- Staying updated with the latest advancements in AI and technology
+- Exploring new automation tools and techniques
+- Engaging with the tech and AI community through networking events and conferences
+
+Hard Skills:
+- Python (Programming Language)
+- Databases
+- Artificial Intelligence (AI)
+- Artificial Neural Networks
+- Automation Tools
+- Web Development
+- SEO
+- Content Creation
+
+Education
+- Bachelor of Applied Science (BASc) in Artificial Intelligence | Miami Dade College
+- Electrical Engineering, Electrical and Electronics Engineering | Florida International University
+
+Courses and Certifications
+- AWS Cloud Practitioner (CLF-C02) Certification Preparation
+
+Experience
+
+HGAB Studios
+January 2013 - Present
+Founder
+- Established and managed a creative studio offering services in photo and video production, and content creation
+- Developed custom automated systems using Make.com, Zapier, and Google Scripts to optimize business processes and enhance operational efficiency.
+- Successfully implemented SEO strategies achieving top search engine rankings for multiple pages

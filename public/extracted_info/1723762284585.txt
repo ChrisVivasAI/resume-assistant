@@ -1,0 +1,76 @@
+### Full Name
+- John Doe
+
+### Job Position
+- Project Manager Officer
+
+### Soft and Hard Skills
+Soft Skills:
+- Negotiation
+- Strategic Thinking
+- Leadership
+- Problem-Solving
+- Budget Management
+- Stakeholder Communication
+- Change Management
+- Vendor Management
+
+Hard Skills:
+- IT Systems
+- Software Development
+- Project Planning
+- Risk Management
+- Agile Methodologies
+- Quality Assurance
+- Vendor Management
+
+### Education
+- BS in Industrial Engineering | UNAM - National Autonomous University of Mexico
+- Diploma in Business Consulting | EGADE - Business School - Monterrey Institute of Technology and Higher Education
+- MSc in Engineering Management Operations | Anahuac University
+- Diploma in Management Strategy and Process Design | Intercontinental University
+
+### Courses and Certifications
+- Professional Product Owner by scrum.org
+- Professional Scrum Master by scrum.org
+- Google Project Management: Specialization Professional Certificate
+- Generative AI for Project Managers: Specialization Certificate by IBM
+- Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign
+- Yellow belt Six Sigma by VMEdu
+- Advanced Professional RPA in Automation 360 platform by Automation Anywhere
+- Negotiation Associate NCN-A by VMEdu
+- Digital Marketing Fundamentals by VMEdu
+- Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey
+- Prince2 Foundations by Axelos (In progress)
+
+### Experience
+
+Wipro
+08/04/2023 - 01/03/2024
+Delivery Lead IT
+- Managed a core trading system migration project at BBVA México in the FX Financial Markets.
+- Implemented Calypso systems for the calculator and remediation of margin interchange.
+- Acted as Product Owner and Scrum Master, facilitating collaboration and timely project delivery.
+- Utilized Agile methodologies for continuous improvement and high-quality solutions.
+
+NFQ
+Experienced Business Consultant
+- PMO in a Sofome transformation to Sofipo.
+- Led the integration of digital processes for opening credit accounts in mobile apps.
+- Ensured legal compliance and facilitated seamless business process transitions.
+
+Stryke
+01/02/2023 - 08/04/2023
+Project Manager Officer
+- Managed projects in Talent and Culture area (HR) implementing IT platforms and RPA solutions.
+- Optimized processes under Agile/SAFe framework for continuous improvement and successful project delivery.
+
+BBVA
+06/2015 - 12/2018
+Business Consultant
+- Managed digital transformation projects, system migrations, and new technology implementations.
+
+Freelance
+01/08/2022 - 01/02/2023
+Independent Business Consultant
+- Provided consultancy services for various projects and clients.

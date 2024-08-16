@@ -1,0 +1,85 @@
+Full Name
+- Emmanuel Carranza Galvan
+
+Job Position
+- Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert
+
+Soft and Hard Skills
+
+Soft Skills:
+- Negotiation
+- Strategic Thinking
+- Continuous Improvement
+- Leadership and Team Management
+- Problem-Solving
+- Stakeholder Communication
+- Customer Focus
+- Adaptability
+- Conflict Resolution
+- Time Management
+
+Hard Skills:
+- Technical Knowledge
+- Project Planning and Scheduling
+- Risk Management
+- Budget Management
+- Agile and Scrum Methodologies
+- Quality Assurance
+- Change Management
+- Vendor Management
+- Delivery Documentation and Reporting
+- Jira
+- Monday
+- Confluence
+- Asana
+- MS Excel
+- Word
+- Power Point
+- Shared Point
+- Teams
+- Google Workspace Sheets
+- Analytics
+- VBA
+- Appian
+- RPA Automation Anywhere
+- Woocommerce
+- Murex
+- Calypso
+- Salesforce
+
+Education
+- BS in Industrial Engineering | UNAM - National Autonomous University of Mexico
+- Diploma in Business Consulting | EGADE - Business School - Monterrey Institute of Technology and Higher Education
+- MSc in Engineering Management Operations | Anahuac University
+- Diploma in Management Strategy and Process Design | Intercontinental University
+
+Courses and Certifications
+- Professional Product Owner by scrum.org
+- Professional Scrum Master by scrum.org
+- Google Project Management: Specialization Professional Certificate
+- Generative AI for Project Managers: Specialization Certificate by IBM
+- Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign
+- Yellow belt Six Sigma by VMEdu
+- Advanced Professional RPA in Automation 360 platform by Automation Anywhere
+- Negotiation Associate NCN-A by VMEdu
+- Digital Marketing Fundamentals by VMEdu
+- Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey
+- Prince2 Foundations by Axelos (In progress)
+
+Experience
+
+Citibanamex
+01/03/2024 - Present
+Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert
+- Led a team (25 collaborators) to remediate manual processes using Automation RPA and BPM Platform (Appian).
+- Planned, strategized, and executed projects, ensuring comprehensive involvement in all phases, including building processes and designing data models.
+- Normalized input files (reports and data files) to streamline data management and processing.
+- Collaborated with the development team to design and implement automation solutions using Appian tools.
+
+Wipro
+08/04/2023 - 01/03/2024
+Delivery Lead IT
+- Project Manager for a core trading system migration project at BBVA México in the FX Financial Markets (Murex MX3 and Calypso) CIB, overseeing planning, management, and delivery phases.
+- Acted as Product Owner, defining project vision, prioritizing features, and managing the product backlog.
+- Served as Scrum Master, facilitating daily stand-ups, sprint planning, and retrospectives.
+- Coordinated cross-functional teams, ensuring effective communication.

@@ -1,0 +1,107 @@
+Full Name
+- Emmanuel Carranza Galvan
+
+Job Position
+- Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert
+
+Soft and Hard Skills
+
+Soft Skills:
+- Negotiation Skills
+- Strategic Thinking
+- Continuous Improvement
+- Leadership and Team Management
+- Problem-Solving
+- Stakeholder Communication
+- Change Management
+- Customer Focus
+- Adaptability
+- Conflict Resolution
+- Time Management
+
+Hard Skills:
+- Technical Knowledge
+- Project Planning and Scheduling
+- Risk Management
+- Budget Management
+- Agile and Scrum Methodologies
+- Quality Assurance
+- Vendor Management
+- Delivery Documentation and Reporting
+- Jira - Advanced
+- Monday - Advanced
+- Confluence - Advanced
+- Asana - Intermediate
+- MS Excel - Advanced
+- Word - Advanced
+- Power point - Advanced
+- Shared point - Advanced
+- Teams - Advanced
+- Google Workspace Sheets - Advanced
+- Analytics - Advanced
+- Technical VBA - Advanced
+- Appian - Intermediate
+- RPA Autmomation Anywhere - Intermediate
+- Woocommerce - advanced
+- Murex - Intermediate
+- Calypso - Intermediate
+- Salesforce, woocomerce - Intermediate
+
+Education
+- BS in Industrial Engineering | UNAM - National Autonomous University of Mexico
+- Diploma in Business Consulting | EGADE - Business School - Monterrey Institute of Technology and Higher Education
+- MSc in Engineering Management Operations | Anahuac University
+
+Courses and Certifications
+- Professional Product Owner by scrum.org
+- Professional Scrum Master by scrum.org
+- Google Project Management: Specialization Professional Certificate
+- Generative AI for Project Managers: Specialization Certificate by IBM
+- Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign
+- Yellow belt Six Sigma by VMEdu
+- Advanced Professional RPA in Automation 360 platform by Automation Anywhere
+- Negotiation Associate NCN-A by VMEdu
+- Digital Marketing Fundamentals by VMEdu
+- Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey
+- Prince2 Foundations by Axelos (In progress)
+- Diploma in Management Srategy and Process Design by Intercontinental University
+
+Experience
+
+Wipro
+08/04/2023 - 01/03/2024
+Delivery Lead IT
+- Project Manager for a core trading system migration project at BBVA México
+- Led the implementation of Calypso systems for the calculator and remediation of margin interchange, focusing on the execution within financial union frameworks
+- Acted as Product Owner, defining project vision, prioritizing features and managing the product backlog to ensure alignment with business goals.
+- Served as Scrum Master, facilitating daily stand-ups, sprint planning, and retrospectives to enhance team collaboration and ensure timely project delivery.
+- Coordinated cross-functional teams, ensuring effective communication and collaboration between stakeholders, risk and busines team, layers developers, and QA teams.
+- Utilized Agile methodologies to drive continuous improvement and deliver high-quality solutions tailored to business needs.
+
+NFQ
+01/02/2023 - 08/04/2023
+Experienced Business Consultant
+- PMO in a Sofome transformation to Sofipo, acting as a coordinator in legal and tech development.
+- Led the integration of digital processes for opening credit accounts in mobile apps using advanced technology.
+- Ensured legal compliance and facilitated the seamless transition of business processes during the transformation.
+
+Stryke
+N/A
+Project Manager Officer
+- N/A
+
+Freelance
+01/08/2022 - 01/02/2023
+Independent Business Consultant
+- N/A
+
+BBVA
+01/2019 - 10/2019
+Project Manager
+- Project Manager in Talent and Culture area (HR)
+- Managed the implementation of IT platforms and RPA solutions for front office and back office systems trade flows.
+- Led and managed the data mapping team, tracking origin-destination at both object and field levels.
+- Gathered data from users and systems to inform project decisions and improvements.
+- Employed BPMN nomenclature to design process automation and RPA solutions.
+- Optimized end-to-end processes under Agile/SAFe framework, implementing continuous improvements. 
+- Ensured the successful delivery of projects by managing timelines, resources, and stakeholder expectations.

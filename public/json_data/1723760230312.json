@@ -1,0 +1,203 @@
+{
+  "Skills": {
+    "Negotiation Skills": "Negotiating project terms, scope, and deliverables with stakeholders.",
+    "Strategic Thinking": "Aligning project objectives with organizational goals and strategies.",
+    "Continuous Improvement": "Encouraging and implementing process improvements for better project outcomes.",
+    "Leadership and Team Management": "Ability to lead, motivate, and manage project teams effectively.",
+    "Problem-Solving": "Effective at identifying issues and finding solutions quickly.",
+    "Technical Knowledge": "Understanding of IT systems, software development, and related technologies.",
+    "Project Planning and Scheduling": "Proficiency in creating detailed project plans and schedules.",
+    "Risk Management": "Identifying, analyzing, and mitigating project risks.",
+    "Budget Management": "Managing project budgets and ensuring cost-effectiveness.",
+    "Stakeholder Communication": "Strong skills in communicating with stakeholders at all levels.",
+    "Agile and Scrum Methodologies": "Experience with Agile frameworks and Scrum practices.",
+    "Quality Assurance": "Ensuring that project deliverables meet quality standards.",
+    "Change Management": "Managing and implementing change within projects.",
+    "Vendor Management": "Handling relationships and contracts with external vendors.",
+    "Delivery Documentation and Reporting": "Maintaining comprehensive project documentation and generating regular status reports.",
+    "Customer Focus": "Ensuring that project outcomes meet customer expectations and requirements.",
+    "Adaptability": "Flexibility to adapt to changing project requirements and environments.",
+    "Conflict Resolution": "Addressing and resolving conflicts within the project team or with stakeholders.",
+    "Time Management": "Prioritizing tasks and managing time effectively to meet deadlines."
+  },
+  "Experience": [
+    {
+      "JobTitle": "Delivery Lead IT",
+      "Company": "Wipro",
+      "Location": "México, CDMX",
+      "StartDate": "08/04/2023",
+      "EndDate": "01/03/2024",
+      "Responsibilities": [
+        "Project Manager for a core trading system migration project at BBVA México in the FX Financial Markets (Murex MX3 and Calypso) CIB, overseeing planning, management, and delivery phases.",
+        "Led the implementation of Calypso systems for the calculator and remediation of margin interchange, focusing on the execution within financial union frameworks.",
+        "Acted as Product Owner, defining project vision, prioritizing features, and managing the product backlog to ensure alignment with business goals.",
+        "Served as Scrum Master, facilitating daily stand-ups, sprint planning, and retrospectives to enhance team collaboration and ensure timely project delivery.",
+        "Coordinated cross-functional teams, ensuring effective communication and collaboration between stakeholders, risk and business team, layers developers, and QA teams.",
+        "Utilized Agile methodologies to drive continuous improvement and deliver high-quality solutions tailored to business needs."
+      ]
+    },
+    {
+      "JobTitle": "Experienced Business Consultant",
+      "Company": "NFQ",
+      "Location": "",
+      "Responsibilities": [
+        "PMO in a Sofome transformation to Sofipo, acting as a coordinator in legal and tech development.",
+        "Led the integration of digital processes for opening credit accounts in mobile apps using advanced technology.",
+        "Ensured legal compliance and facilitated the seamless transition of business processes during the transformation."
+      ]
+    },
+    {
+      "JobTitle": "Project Manager Officer",
+      "Company": "Stryke",
+      "Location": "México, CDMX",
+      "StartDate": "01/02/2023",
+      "EndDate": "08/04/2023",
+      "Responsibilities": [
+        "Coordinated with the development team to design and implement automation solutions using Appian tools.",
+        "Led a team to remediate manual processes using Automation RPA and BPM Platform (Appian) at Citibanamex technology direction.",
+        "Normalized input files (reports and data files) to streamline data management and processing.",
+        "Facilitated discussions on processes and gathered user process rules to ensure clarity and accuracy.",
+        "Planned, strategized, and executed projects, ensuring comprehensive involvement in all phases, including building processes and designing data models."
+      ]
+    },
+    {
+      "JobTitle": "Founder (Entrepreneur phase)",
+      "Company": "",
+      "Location": "México, CDMX",
+      "StartDate": "12/2019",
+      "EndDate": "08/2022",
+      "Responsibilities": [
+        "Assessed sales processes in the e-commerce platform, improving paths and testing solutions.",
+        "Implemented e-commerce and CRM platforms (WooCommerce and Salesforce) with a development team using WordPress, HTML, and CSS technologies.",
+        "Designed production, operational, and commercial processes.",
+        "Managed point of sales (POS) systems integration with e-commerce and CRM platforms.",
+        "Developed and executed marketing and lead generation strategies using data from the CRM system.",
+        "Analyzed CRM data to optimize sales strategies and improve customer engagement.",
+        "Coordinated with cross-functional teams to align business processes with technology solutions for enhanced efficiency."
+      ]
+    },
+    {
+      "JobTitle": "Independent Business Consultant",
+      "Company": "Freelance",
+      "Location": "México, CDMX",
+      "StartDate": "01/08/2022",
+      "EndDate": "01/02/2023",
+      "Responsibilities": [
+        "Managed the implementation of digital technology solutions, including e-commerce, CRM, RPA, C2C practices, AR experiences, and data management strategies.",
+        "Defined project vision and priorities, ensuring alignment with business objectives and maximizing value delivery.",
+        "Facilitated Agile practices, including daily stand-ups, sprint planning, and retrospectives, to drive team collaboration and project efficiency.",
+        "Managed the product backlog, prioritizing features and tasks to meet business needs and project timelines.",
+        "Ensured effective communication and collaboration across cross-functional teams and stakeholders, driving successful project outcomes."
+      ]
+    },
+    {
+      "JobTitle": "Project Manager",
+      "Company": "Talent and Culture",
+      "Location": "México, CDMX",
+      "StartDate": "01/2019",
+      "EndDate": "10/2019",
+      "Responsibilities": [
+        "Managed the implementation of IT platforms and RPA solutions for front office and back office systems trade flows.",
+        "Led and managed the data mapping team, tracking origin-destination at both object and field levels.",
+        "Gathered data from users and systems to inform project decisions and improvements.",
+        "Employed BPMN nomenclature to design process automation and RPA solutions.",
+        "Optimized end-to-end processes under Agile/SAFe framework, implementing continuous improvements.",
+        "Ensured the successful delivery of projects by managing timelines, resources, and stakeholder expectations."
+      ]
+    },
+    {
+      "JobTitle": "Business Consultant",
+      "Company": "BBVA",
+      "Location": "México, CDMX, Spain, Madrid",
+      "StartDate": "06/2015",
+      "EndDate": "12/2018",
+      "Responsibilities": [
+        "Managed project lifecycles from planning to execution, ensuring timely delivery and adherence to budgets.",
+        "Acted as Scrum Master for multiple projects, facilitating daily stand-ups, sprint planning, and retrospectives.",
+        "Implemented process architecture offices, designed taxonomies, and created KANBAN process factories to improve operational efficiency. Conducted process mapping and analysis to streamline workflows and centralize business processes.",
+        "Managed data mapping teams, tracking origin-destination at object and field levels, and creating requirement documents and cleansing rules for master data.",
+        "Coordinated cross-functional teams and facilitated communication between stakeholders, developers, and QA teams.",
+        "Implemented IT platforms and RPA solutions for front office and back office systems trade flows.",
+        "Led the integration of digital processes for opening credit accounts in mobile apps using advanced technology."
+      ]
+    }
+  ],
+  "Certifications": [
+    "Professional Product Owner by scrum.org",
+    "Professional Scrum Master by scrum.org",
+    "Google Project Management: Specialization Professional Certificate",
+    "Generative AI for Project Managers: Specialization Certificate by IBM",
+    "Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign",
+    "Yellow belt Six Sigma by VMEdu",
+    "Advanced Professional RPA in Automation 360 platform by Automation Anywhere",
+    "Negotiation Associate NCN-A by VMEdu",
+    "Digital Marketing Fundamentals by VMEdu",
+    "Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey",
+    "Prince2 Foundations by Axelos (In progress)"
+  ],
+  "Education": [
+    {
+      "Degree": "BS in Industrial Engineering",
+      "Institution": "UNAM - National Autonomous University of Mexico"
+    },
+    {
+      "Degree": "Diploma in Business Consulting",
+      "Institution": "EGADE - Business School - Monterrey Institute of Technology and Higher Education",
+      "StartDate": "08/06/2012",
+      "EndDate": "31/12/2015"
+    },
+    {
+      "Degree": "MSc in Engineering Management Operations",
+      "Institution": "Anahuac University",
+      "StartDate": "08/02/2017",
+      "EndDate": "31/10/2018"
+    },
+    {
+      "Degree": "Diploma in Management Strategy and Process Design",
+      "Institution": "Intercontinental University"
+    }
+  ],
+  "Languages": {
+    "English": "Advanced C1",
+    "Spanish": "Native"
+  },
+  "SoftwareSkills": {
+    "Jira": "Advanced",
+    "Monday": "Advanced",
+    "Confluence": "Advanced",
+    "Asana": "Intermediate",
+    "Excel": "Advanced",
+    "Word": "Advanced",
+    "PowerPoint": "Advanced",
+    "SharePoint": "Advanced",
+    "Teams": "Advanced",
+    "Google Workspace": {
+      "Sheets": "Advanced",
+      "Analytics": "Advanced"
+    },
+    "Technical": {
+      "VBA": "Advanced",
+      "Appian": "Intermediate",
+      "RPA Automation Anywhere": "Intermediate",
+      "WooCommerce": "Advanced",
+      "Murex": "Intermediate",
+      "Calypso": "Intermediate",
+      "Salesforce": "Intermediate",
+      "Diploma in Management Srategy and Process Design": "Intercontinental University"
+    }
+  },
+  "AdditionalInformation": {
+    "Management Solutions": {
+      "Experience": [
+        "Digital transformation",
+        "Process re-engineering",
+        "IT project management"
+      ],
+      "Skills": [
+        "Agile methodologies",
+        "Stakeholder communication",
+        "Cross-functional team leadership"
+      ]
+    }
+  }
+}

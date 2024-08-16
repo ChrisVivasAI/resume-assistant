@@ -1,0 +1,166 @@
+{
+  "fullName": "Emmanuel Carranza Galvan",
+  "jobPosition": "Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert",
+  "skills": {
+    "soft": [
+      "Negotiation Skills",
+      "Strategic Thinking",
+      "Continuous Improvement",
+      "Leadership and Team Management",
+      "Problem-Solving",
+      "Stakeholder Communication",
+      "Change Management",
+      "Time Management",
+      "Conflict Resolution",
+      "Adaptability",
+      "Customer Focus"
+    ],
+    "hard": [
+      "Technical Knowledge",
+      "Project Planning and Scheduling",
+      "Risk Management",
+      "Budget Management",
+      "Agile and Scrum Methodologies",
+      "Quality Assurance",
+      "Vendor Management",
+      "Delivery Documentation and Reporting",
+      "Jira",
+      "Monday",
+      "Confluence",
+      "Asana",
+      "MS Excel",
+      "Word",
+      "Power point",
+      "Shared point",
+      "Teams",
+      "Google Workspace",
+      "Sheets",
+      "Analytics",
+      "VBA",
+      "Appian",
+      "RPA Autmomation Anywhere",
+      "Woocommerce",
+      "Murex",
+      "Calypso",
+      "Salesforce"
+    ]
+  },
+  "education": [
+    {
+      "degree": "BS in Industrial Engineering",
+      "institution": "National Autonomous University of Mexico"
+    },
+    {
+      "degree": "Diploma in Business Consulting",
+      "institution": "EGADE - Business School - Monterrey Institute of Technology and Higher Education"
+    },
+    {
+      "degree": "MSc in Engineering Management Operations",
+      "institution": "Anahuac University"
+    },
+    {
+      "degree": "Diploma in Management Srategy and Process Design",
+      "institution": "Intercontinental University"
+    }
+  ],
+  "coursesAndCertifications": [
+    "Professional Product Owner by scrum.org",
+    "Professional Scrum Master by scrum.org",
+    "Google Project Management: Specialization Professional Certificate",
+    "Generative AI for Project Managers: Specialization Certificate by IBM",
+    "Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign",
+    "Yellow belt Six Sigma by VMEdu",
+    "Advanced Professional RPA in Automation 360 platform by Automation Anywhere",
+    "Negotiation Associate NCN-A by VMEdu",
+    "Digital Marketing Fundamentals by VMEdu",
+    "Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey",
+    "Prince2 Foundations by Axelos (In progress)"
+  ],
+  "experience": [
+    {
+      "company": "Citibanamex",
+      "term": "01/03/2024 (ongoing)",
+      "position": "Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert",
+      "responsibilities": [
+        "Led a team (25 collaborators) to remediate manual processes using Automation RPA and BPM Platform (Appian)",
+        "Planned, strategized, and executed projects",
+        "Normalized input files (reports and data files) to streamline data management and processing",
+        "Collaborated with the development team to design and implement automation solutions using Appian tools"
+      ]
+    },
+    {
+      "company": "Wipro",
+      "term": "08/04/2023 - 01/03/2024",
+      "position": "Delivery Lead IT",
+      "responsibilities": [
+        "Project Manager for a core trading system migration project at BBVA México",
+        "Led the implementation of Calypso systems for the calculator and remediation of margin interchange",
+        "Served as Scrum Master",
+        "Coordinated cross-functional teams",
+        "Utilized Agile methodologies to drive continuous improvement and deliver high-quality solutions tailored to business needs"
+      ]
+    },
+    {
+      "company": "NFQ",
+      "term": "Unknown",
+      "position": "Experienced Business Consultant",
+      "responsibilities": [
+        "PMO in a Sofome transformation to Sofipo",
+        "Led the integration of digital processes for opening credit accounts in mobile apps using advanced technology",
+        "Ensured legal compliance and facilitated the seamless transition of business processes during the transformation"
+      ]
+    },
+    {
+      "company": "Stryke",
+      "term": "01/02/2023 - 08/04/2023",
+      "position": "Project Manager Officer",
+      "responsibilities": [
+        "Unknown"
+      ]
+    },
+    {
+      "company": "Inbee and Zapping pet",
+      "term": "01/03/2024 - 10/10/2025",
+      "position": "Unknown",
+      "responsibilities": [
+        "Manager of the implementation of digital technology solutions",
+        "Defined project vision and priorities",
+        "Facilitated Agile practices",
+        "Managed the product backlog",
+        "Ensured effective communication and collaboration across cross-functional teams and stakeholders"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "term": "01/08/2022 - 01/02/2023",
+      "position": "Independent Business Consultant",
+      "responsibilities": [
+        "Unknown"
+      ]
+    },
+    {
+      "company": "BBVA",
+      "term": "01/2019 - 10/2019",
+      "position": "Project Manager",
+      "responsibilities": [
+        "Managed the implementation of IT platforms and RPA solutions for front office and back office systems trade flows",
+        "Led and managed the data mapping team",
+        "Employed BPMN nomenclature to design process automation and RPA solutions",
+        "Ensured the successful delivery of projects by managing timelines, resources, and stakeholder expectations"
+      ]
+    },
+    {
+      "company": "Management Solutions",
+      "term": "06/2015 - 12/2018",
+      "position": "Business Consultant",
+      "responsibilities": [
+        "Experienced Project Manager with a strong background in digital transformation",
+        "Managed project lifecycles from planning to execution",
+        "Acted as Scrum Master for multiple projects",
+        "Implemented process architecture offices, designed taxonomies, and created KANBAN process factories",
+        "Managed data mapping teams",
+        "Implemented IT platforms and RPA solutions for front office and back office systems trade flows"
+      ]
+    }
+  ]
+}

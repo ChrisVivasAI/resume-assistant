@@ -1,0 +1,48 @@
+{
+  "fullName": "Christian Vivas",
+  "jobPosition": "Summer Internship at the Hache Law Firm",
+  "skills": {
+    "soft": [
+      "Dedicated",
+      "Experienced",
+      "Staying updated with the latest advancements in AI and technology",
+      "Exploring new automation tools and techniques",
+      "Engaging with the tech and AI community through networking events and conferences"
+    ],
+    "hard": [
+      "Python (Programming Language)",
+      "Databases",
+      "Artificial Intelligence (AI)",
+      "Artificial Neural Networks",
+      "Automation Tools",
+      "Web Development",
+      "SEO",
+      "Content Creation"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Applied Science (BASc) in Artificial Intelligence",
+      "institution": "Miami Dade College"
+    },
+    {
+      "degree": "Electrical Engineering, Electrical and Electronics Engineering",
+      "institution": "Florida International University"
+    }
+  ],
+  "coursesAndCertifications": [
+    "AWS Cloud Practitioner (CLF-C02) Certification Preparation"
+  ],
+  "experience": [
+    {
+      "company": "HGAB Studios",
+      "term": "January 2013 - Present",
+      "position": "Founder",
+      "responsibilities": [
+        "Established and managed a creative studio offering services in photo and video production, and content creation",
+        "Developed custom automated systems using Make.com, Zapier, and Google Scripts to optimize business processes and enhance operational efficiency.",
+        "Successfully implemented SEO strategies achieving top search engine rankings for multiple pages"
+      ]
+    }
+  ]
+}

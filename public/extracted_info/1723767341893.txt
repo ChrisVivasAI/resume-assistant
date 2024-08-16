@@ -1,0 +1,37 @@
+Full Name
+- Christian Vivas
+
+Job Position
+- Founder
+
+Soft and Hard Skills
+
+Soft Skills:
+- [No soft skills listed]
+
+Hard Skills:
+- Python (Programming Language)
+- Databases
+- Artificial Intelligence (AI)
+- Artificial Neural Networks
+- Automation Tools: Make.com, Zapier, Google Scripts
+- Web Development: HTML, CSS, JavaScript
+- SEO
+- Artificial Intelligence: Applied AI, Python, Databases, Artificial Neural Networks
+- Content Creation: Social media management, marketing content production
+
+Education
+- Bachelor of Applied Science (BASc) in Artificial Intelligence | Miami Dade College
+- Electrical Engineering, Electrical and Electronics Engineering | Florida International University
+
+Courses and Certifications
+- AWS Cloud Practitioner (CLF-C02) Certification Preparation
+
+Experience
+
+HGAB Studios
+January 2013 - Present
+Founder
+- Established and managed a creative studio
+- Developed custom automated systems to optimize business processes and enhance operational efficiency
+- Implemented SEO strategies

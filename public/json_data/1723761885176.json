@@ -1,0 +1,132 @@
+{
+  "Skills": {
+    "Negotiation Skills": "Negotiating project terms, scope, and deliverables with stakeholders",
+    "Strategic Thinking": "Aligning project objectives with organizational goals and strategies",
+    "Continuous Improvement": "Encouraging and implementing process improvements for better project outcomes",
+    "Leadership and Team Management": "Ability to lead, motivate, and manage project teams effectively",
+    "Problem-Solving": "Effective at identifying issues and finding solutions quickly",
+    "Technical Knowledge": "Understanding of IT systems, software development, and related technologies",
+    "Project Planning and Scheduling": "Proficiency in creating detailed project plans and schedules",
+    "Risk Management": "Identifying, analyzing, and mitigating project risks",
+    "Budget Management": "Managing project budgets and ensuring cost-effectiveness",
+    "Stakeholder Communication": "Strong skills in communicating with stakeholders at all levels",
+    "Agile and Scrum Methodologies": "Experience with Agile frameworks and Scrum practices",
+    "Quality Assurance": "Ensuring that project deliverables meet quality standards",
+    "Change Management": "Managing and implementing change within projects",
+    "Vendor Management": "Handling relationships and contracts with external vendors",
+    "Delivery Documentation and Reporting": "Maintaining comprehensive project documentation and generating regular status reports",
+    "Customer Focus": "Ensuring that project outcomes meet customer expectations and requirements",
+    "Adaptability": "Flexibility to adapt to changing project requirements and environments",
+    "Conflict Resolution": "Addressing and resolving conflicts within the project team or with stakeholders",
+    "Time Management": "Prioritizing tasks and managing time effectively to meet deadlines"
+  },
+  "Experience": [
+    {
+      "Title": "Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert",
+      "Company": "Wipro",
+      "Location": "México, CDMX",
+      "Dates": "08/04/2023 - 01/03/2024",
+      "Responsibilities": [
+        "Project Manager for a core trading system migration project",
+        "Led the implementation of Calypso systems",
+        "Acted as Product Owner",
+        "Served as Scrum Master",
+        "Coordinated cross-functional teams",
+        "Utilized Agile methodologies"
+      ]
+    },
+    {
+      "Title": "Founder (Entrepreneur phase)",
+      "Company": "N/A",
+      "Location": "México, CDMX",
+      "Dates": "12/2019 - 08/2022",
+      "Responsibilities": [
+        "Head of technology and business process",
+        "Assessed sales processes in the e-commerce platform",
+        "Implemented e-commerce and CRM platforms",
+        "Managed point of sales (POS) systems integration",
+        "Developed and executed marketing and lead generation strategies",
+        "Coordinated with cross-functional teams"
+      ]
+    },
+    {
+      "Title": "Independent Business Consultant",
+      "Company": "Freelance",
+      "Location": "México, CDMX",
+      "Dates": "01/08/2022 - 01/02/2023",
+      "Responsibilities": [
+        "Project Manager in Talent and Culture area (HR)",
+        "Managed the implementation of IT platforms and RPA solutions",
+        "Led and managed the data mapping team",
+        "Gathered data from users and systems",
+        "Employed BPMN nomenclature",
+        "Ensured the successful delivery of projects"
+      ]
+    },
+    {
+      "Title": "Business Consultant",
+      "Company": "BBVA",
+      "Location": "México, CDMX , Spain , Madrid",
+      "Dates": "06/2015 - 12/2018",
+      "Responsibilities": [
+        "Managed project lifecycles from planning to execution",
+        "Acted as Scrum Master",
+        "Implemented process architecture offices",
+        "Managed data mapping teams",
+        "Coordinated cross-functional teams",
+        "Led the integration of digital processes"
+      ]
+    }
+  ],
+  "Education": {
+    "BS in Industrial Engineering": "UNAM - National Autonomous University of Mexico",
+    "Diploma in Business Consulting": "EGADE - Business School - Monterrey Institute of Technology and Higher Education",
+    "MSc in Engineering Management Operations": "Anahuac University",
+    "Diploma in Management Strategy and Process Design": "Intercontinental University"
+  },
+  "Certifications": [
+    "Professional Product Owner by scrum.org",
+    "Professional Scrum Master by scrum.org",
+    "Google Project Management: Specialization Professional Certificate",
+    "Generative AI for Project Managers: Specialization Certificate by IBM",
+    "Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign",
+    "Yellow belt Six Sigma by VMEdu",
+    "Advanced Professional RPA in Automation 360 platform by Automation Anywhere",
+    "Negotiation Associate NCN-A by VMEdu",
+    "Digital Marketing Fundamentals by VMEdu",
+    "Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey",
+    "Prince2 Foundations by Axelos (In progress)"
+  ],
+  "Languages": {
+    "English": "Advanced C1",
+    "Spanish": "Native"
+  },
+  "Software Skills": {
+    "Management Solutions": {
+      "Jira": "Advanced",
+      "Monday": "Advanced",
+      "Confluence": "Advanced",
+      "Asana": "Intermediate"
+    },
+    "MS": {
+      "Excel": "Advanced",
+      "Word": "Advanced",
+      "Power point": "Advanced",
+      "Shared point": "Advanced",
+      "Teams": "Advanced"
+    },
+    "Google Workspace": {
+      "Sheets": "Advanced",
+      "Analytics": "Advanced"
+    },
+    "Technical": {
+      "VBA": "Advanced",
+      "Appian": "Intermediate",
+      "RPA Autmomation Anywhere": "Intermediate",
+      "Woocommerce": "Advanced",
+      "Murex": "Intermediate",
+      "Calypso": "Intermediate",
+      "Salesforce": "Intermediate"
+    }
+  }
+}

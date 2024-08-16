@@ -1,0 +1,186 @@
+{
+  "Skills": {
+    "Negotiation Skills": "Negotiating project terms, scope, and deliverables with stakeholders",
+    "Strategic Thinking": "Aligning project objectives with organizational goals and strategies",
+    "Continuous Improvement": "Encouraging and implementing process improvements for better project outcomes",
+    "Leadership and Team Management": "Ability to lead, motivate, and manage project teams effectively",
+    "Problem-Solving": "Effective at identifying issues and finding solutions quickly",
+    "Technical Knowledge": "Understanding of IT systems, software development, and related technologies",
+    "Project Planning and Scheduling": "Proficiency in creating detailed project plans and schedules",
+    "Risk Management": "Identifying, analyzing, and mitigating project risks",
+    "Budget Management": "Managing project budgets and ensuring cost-effectiveness",
+    "Stakeholder Communication": "Strong skills in communicating with stakeholders at all levels",
+    "Agile and Scrum Methodologies": "Experience with Agile frameworks and Scrum practices",
+    "Quality Assurance": "Ensuring that project deliverables meet quality standards",
+    "Change Management": "Managing and implementing change within projects",
+    "Vendor Management": "Handling relationships and contracts with external vendors",
+    "Delivery Documentation and Reporting": "Maintaining comprehensive project documentation and generating regular status reports"
+  },
+  "Professional Experience": [
+    {
+      "Position": "Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert",
+      "Company": "EMMANUEL CARRANZA GALVAN",
+      "Location": "México, CDMX",
+      "Contact": {
+        "Phone": "+52 5546768256",
+        "Email": "emmanuel.carranza.g@gmail.com",
+        "LinkedIn": "linkedin.com/in/emmanuel-carranza-36a34b238"
+      },
+      "Summary": "With over 8 years of experience in IT and project management, expertise in digital transformation, and successful leadership in deploying critical IT projects and expert business analyst skills"
+    },
+    {
+      "Position": "Delivery Lead IT",
+      "Company": "Wipro",
+      "Location": "México, CDMX",
+      "Dates": "08/04/2023 - 01/03/2024",
+      "Responsibilities": [
+        "Project Manager for core trading system migration project at BBVA México",
+        "Led the implementation of Calypso systems",
+        "Acted as Product Owner and Scrum Master",
+        "Coordinated cross-functional teams",
+        "Utilized Agile methodologies"
+      ]
+    },
+    {
+      "Position": "Experienced Business Consultant",
+      "Company": "NFQ",
+      "Responsibilities": [
+        "PMO in a Sofome transformation to Sofipo",
+        "Led the integration of digital processes for opening credit accounts in mobile apps",
+        "Ensured legal compliance during transformation"
+      ]
+    },
+    {
+      "Position": "Project Manager Officer",
+      "Company": "Stryke",
+      "Location": "México, CDMX",
+      "Dates": "01/02/2023 - 08/04/2023",
+      "Certifications": [
+        "Professional Product Owner by scrum.org",
+        "Professional Scrum Master by scrum.org",
+        "Google Project Management: Specialization Professional Certificate",
+        "Generative AI for Project Managers: Specialization Certificate by IBM",
+        "Strategic Technology Management Specialization by University of Illinois at Urbana-Champaign",
+        "Yellow belt Six Sigma by VMEdu",
+        "Advanced Professional RPA in Automation 360 platform by Automation Anywhere",
+        "Negotiation Associate NCN-A by VMEdu",
+        "Digital Marketing Fundamentals by VMEdu",
+        "Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey",
+        "Prince2 Foundations by Axelos (In progress)"
+      ]
+    },
+    {
+      "Position": "Founder (Entrepreneur phase)",
+      "Dates": "12/2019 - 08/2022",
+      "Location": "México, CDMX",
+      "Responsibilities": [
+        "Head of technology and business process",
+        "Assessed and improved sales processes in e-commerce platform",
+        "Implemented e-commerce and CRM platforms with development team",
+        "Managed point of sales systems integration",
+        "Developed and executed marketing strategies",
+        "Analyzed CRM data",
+        "Coordinated cross-functional teams"
+      ]
+    },
+    {
+      "Position": "Manager",
+      "Company": "Inbee and Zapping pet",
+      "Location": "México, CDMX",
+      "Dates": "01/03/2024 - 10/10/2025",
+      "Responsibilities": [
+        "Managed implementation of digital technology solutions",
+        "Defined project vision and priorities",
+        "Facilitated Agile practices",
+        "Managed product backlog",
+        "Ensured effective communication and collaboration"
+      ]
+    },
+    {
+      "Position": "Independent Business Consultant (Freelance)",
+      "Location": "México, CDMX",
+      "Dates": "01/08/2022 - 01/02/2023"
+    },
+    {
+      "Position": "Project Manager",
+      "Location": "México, CDMX",
+      "Dates": "01/2019 - 10/2019",
+      "Responsibilities": [
+        "Managed implementation of IT platforms and RPA solutions",
+        "Led and managed data mapping team",
+        "Gathered data for project decisions",
+        "Employed BPMN nomenclature",
+        "Optimized processes",
+        "Ensured successful project delivery"
+      ]
+    },
+    {
+      "Position": "Business Consultant",
+      "Company": "BBVA",
+      "Location": "México, CDMX, Spain, Madrid",
+      "Dates": "06/2015 - 12/2018",
+      "Responsibilities": [
+        "Experienced Project Manager in digital transformation",
+        "Managed complex projects and optimized business processes",
+        "Led digital transformation projects"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "Degree": "BS in Industrial Engineering",
+      "Institution": "UNAM - National Autonomous University of Mexico"
+    },
+    {
+      "Degree": "Diploma in Business Consulting",
+      "Institution": "EGADE - Business School - Monterrey Institute of Technology and Higher Education",
+      "Dates": "08/06/2012 - 31/12/2015"
+    },
+    {
+      "Degree": "MSc in Engineering Management Operations",
+      "Institution": "Anahuac University",
+      "Dates": "08/02/2017 - 31/10/2018"
+    },
+    {
+      "Degree": "Diploma in Management Srategy and Process Design",
+      "Institution": "Intercontinental University"
+    }
+  ],
+  "Languages": {
+    "English": "Advanced C1",
+    "Spanish": "Native"
+  },
+  "Management Solutions": [
+    "PM",
+    "Jira - Advanced",
+    "Monday - Advanced",
+    "Confluence - Advanced",
+    "Asana - Intermediate",
+    "Excel - Advanced",
+    "Word - Advanced",
+    "PowerPoint - Advanced",
+    "SharePoint - Advanced",
+    "Teams - Advanced"
+  ],
+  "Software": {
+    "Google Workspace": {
+      "Sheets": "Advanced",
+      "Analytics": "Advanced"
+    },
+    "Technical": {
+      "VBA": "Advanced",
+      "Appian": "Intermediate",
+      "RPA Automation Anywhere": "Intermediate",
+      "Woocommerce": "Advanced",
+      "Murex": "Intermediate",
+      "Calypso": "Intermediate",
+      "Salesforce, woocommerce": "Intermediate"
+    }
+  },
+  "Additional Skills": {
+    "Customer Focus": "Ensuring that project outcomes meet customer expectations and requirements",
+    "Adaptability": "Flexibility to adapt to changing project requirements and environments",
+    "Conflict Resolution": "Addressing and resolving conflicts within the project team or with stakeholders",
+    "Time Management": "Prioritizing tasks and managing time effectively to meet deadlines"
+  }
+}

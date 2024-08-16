@@ -1,0 +1,78 @@
+### Full Name
+- [Full Name]
+
+### Job Position
+- [Job Position]
+
+### Soft and Hard Skills
+
+Soft Skills:
+- Negotiation Skills: Negotiating project terms, scope, and deliverables with stakeholders.
+- Strategic Thinking: Aligning project objectives with organizational goals and strategies.
+- Continuous Improvement: Encouraging and implementing process improvements for better project outcomes.
+- Leadership and Team Management: Ability to lead, motivate, and manage project teams effectively.
+- Problem-Solving: Effective at identifying issues and finding solutions quickly.
+- Stakeholder Communication: Strong skills in communicating with stakeholders at all levels.
+
+Hard Skills:
+- Technical Knowledge: Understanding of IT systems, software development, and related technologies.
+- Project Planning and Scheduling: Proficiency in creating detailed project plans and schedules.
+- Risk Management: Identifying, analyzing, and mitigating project risks.
+- Budget Management: Managing project budgets and ensuring cost-effectiveness.
+- Agile and Scrum Methodologies: Experience with Agile frameworks and Scrum practices.
+- Quality Assurance: Ensuring that project deliverables meet quality standards.
+- Change Management: Managing and implementing change within projects.
+- Vendor Management: Handling relationships and contracts with external vendors.
+- Delivery Documentation and Reporting: Maintaining comprehensive project documentation and generating regular status reports.
+
+### Education
+- BS in Industrial Engineering | UNAM - National Autonomous University of Mexico
+- Diploma in Business Consulting | EGADE - Business School - Monterrey Institute of Technology and Higher Education (08/06/2012 - 31/12/2015)
+- MSc in Engineering Management Operations | Anahuac University (08/02/2017 - 31/10/2018)
+- Diploma in Management Srategy and Process Design | Intercontinental University
+
+### Courses and Certifications
+- Professional Product Owner by scrum.org
+- Professional Scrum Master by scrum.org
+- Google Project Management: Specialization Professional Certificate
+- Generative AI for Project Managers: Specialization Certificate by IBM
+- Strategic Technology Management Specialization by University of Illinois
+- Yellow belt Six Sigma by VMEdu
+- Advanced Professional RPA in Automation 360 platform by Automation Anywhere
+- Negotiation Associate NCN-A by VMEdu
+- Digital Marketing Fundamentals by VMEdu
+- Lean Six Sigma Specialization Certificate by Tecnológico de Monterrey
+- Prince2 Foundations by Axelos (In progress)
+
+### Experience
+
+Wipro
+08/04/2023 - 01/03/2024
+Delivery Lead | Business Lead Consultant | IT Lead Consultant | Process Expert
+- Led a team (25 collaborators) to remediate manual processes using Automation RPA and BPM Platform (Appian) at Citibanamex technology direction.
+- Planned, strategized, and executed projects, ensuring comprehensive involvement in all phases, including building processes and designing data models.
+- Facilitated discussions on processes and gathered user process rules to ensure clarity and accuracy.
+- Normalized input files (reports and data files) to streamline data management and processing.
+- Collaborated with the development team to design and implement automation solutions using Appian tools.
+
+Stryke
+01/02/2023 - 08/04/2023
+Project Manager Officer
+- Project Manager for a core trading system migration project at BBVA México in the FX Financial Markets (Murex MX3 and Calypso) CIB, overseeing planning, management, and delivery phases.
+- Acted as Product Owner, defining project vision, prioritizing features, and managing the product backlog to ensure alignment with business goals.
+- Served as Scrum Master, facilitating daily stand-ups, sprint planning, and retrospectives to enhance team collaboration and ensure timely project delivery.
+- Utilized Agile methodologies to drive continuous improvement and deliver high-quality solutions tailored to business needs.
+
+NFQ
+Business Consultant
+- PMO in a Sofome transformation to Sofipo, acting as a coordinator in legal and tech development.
+- Led the integration of digital processes for opening credit accounts in mobile apps using advanced technology.
+- Ensured legal compliance and facilitated the seamless transition of business processes during the transformation.
+
+Freelance
+01/2019 - 10/2019
+Project Manager
+- Managed the implementation of IT platforms and RPA solutions for front office and back office systems trade flows.
+- Led and managed the data mapping team, tracking origin-destination at both object and field levels.
+- Employed BPMN nomenclature to design process automation and RPA solutions.
+- Ensured the successful delivery of projects by managing timelines, resources, and stakeholder expectations.

@@ -1,0 +1,96 @@
+{
+  "Personal Information": {
+    "Name": "Christian Vivas",
+    "Location": "Miami, Florida, United States",
+    "Email": "christian.vivas001@mymdc.net",
+    "Phone": "786-683-9049",
+    "LinkedIn": "linkedin.com/in/christian-vivas-468371165/"
+  },
+  "Objective": {
+    "Summary": "Dedicated and experienced professional with a background in automation, website optimization, and artificial intelligence, seeking a Summer Internship at the Hache Law Firm to apply technical skills and AI knowledge to streamline intake systems and enhance web presence."
+  },
+  "Education": {
+    "Miami Dade College": {
+      "Degree": "Bachelor of Applied Science (BASc) in Artificial Intelligence",
+      "Dates": "January 2024 - Present",
+      "Coursework": [
+        "Artificial Intelligence for Business",
+        "Applied Artificial Intelligence"
+      ],
+      "Skills": [
+        "Python (Programming Language)",
+        "Databases",
+        "Artificial Intelligence (AI)",
+        "Artificial Neural Networks"
+      ]
+    },
+    "Florida International University": {
+      "Degree": [
+        "Electrical Engineering",
+        "Electrical and Electronics Engineering"
+      ],
+      "Dates": "2011 - 2014"
+    }
+  },
+  "Experience": {
+    "HGAB Studios": {
+      "Position": "Founder",
+      "Location": "Miami, Florida, United States",
+      "Dates": "January 2013 - Present",
+      "Responsibilities": [
+        "Established and managed a creative studio, offering services in photo and video production, and content creation.",
+        "Developed custom automated systems using Make.com, Zapier, and Google Scripts to optimize business processes and enhance operational efficiency.",
+        "Successfully implemented SEO strategies, achieving top search engine rankings for multiple pages."
+      ]
+    }
+  },
+  "Skills": {
+    "Automation Tools": [
+      "Make.com",
+      "Zapier",
+      "Google Scripts"
+    ],
+    "Web Development": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "SEO": "Proven track record of ranking pages on the first page of Google",
+    "Artificial Intelligence": [
+      "Applied AI",
+      "Python",
+      "Databases",
+      "Artificial Neural Networks"
+    ],
+    "Content Creation": [
+      "Social media management",
+      "Marketing content production"
+    ]
+  },
+  "Certifications": {
+    "AWS Cloud Practitioner (CLF-C02) Certification Preparation": {
+      "Provider": "Cloud Academy",
+      "Issued": "June 2024"
+    }
+  },
+  "Projects": {
+    "Website Optimization and SEO Projects": {
+      "Description": "Optimized websites for user experience and search engine rankings, resulting in increased traffic and visibility."
+    },
+    "Automation Systems for Client Intake": {
+      "Description": "Developed automated solutions for client intake processes using Make.com and Zapier, enhancing efficiency and data management."
+    }
+  },
+  "Endorsements": {
+    "Python (Programming Language)": 3,
+    "Databases": 3,
+    "Artificial Intelligence (AI)": 1,
+    "Artificial Neural Networks": 1,
+    "Artificial Intelligence for Business": 1
+  },
+  "Interests": [
+    "Staying updated with the latest advancements in AI and technology",
+    "Exploring new automation tools and techniques",
+    "Engaging with the tech and AI community through networking events and conferences"
+  ]
+}
